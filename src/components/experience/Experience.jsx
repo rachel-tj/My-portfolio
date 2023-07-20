@@ -13,7 +13,7 @@ const Experience = () => {
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Java</h4>
+              <h4>Javaf</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
