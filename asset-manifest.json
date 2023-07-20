@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.8bf6f4a8.css",
+    "main.js": "/My-Portfolio/static/js/main.0ee12580.js",
+    "static/media/rach.png": "/My-Portfolio/static/media/rach.8c7ee5ad380bb5317487.png",
+    "static/media/Educational Website.jpg": "/My-Portfolio/static/media/Educational Website.97050bafaa509873a210.jpg",
+    "static/media/Project4.jpg": "/My-Portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/My-Portfolio/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/racheltjarksen_resume.pdf": "/My-Portfolio/static/media/racheltjarksen_resume.38ab998ee0b44b5d5e41.pdf",
+    "static/media/Covid-19 Project.jpg": "/My-Portfolio/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
+    "static/media/RubyCode Blog Project.jpg": "/My-Portfolio/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
+    "static/media/Jokes Project.jpg": "/My-Portfolio/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.8bf6f4a8.css.map": "/My-Portfolio/static/css/main.8bf6f4a8.css.map",
+    "main.0ee12580.js.map": "/My-Portfolio/static/js/main.0ee12580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf6f4a8.css",
+    "static/js/main.0ee12580.js"
+  ]
+}
