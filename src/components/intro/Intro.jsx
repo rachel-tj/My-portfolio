@@ -24,16 +24,16 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 year</small>
+              <small>something</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Completed Projects</small>
+              <small>something</small>
             </article>
           </div>
           <p>
-            write something here
+            Hi there! My name is Rachel Tjarksen, and I'm a second-year Computer Science and Mathematics major at Case Western Reserve University. Currently, I'm interested in ___ with a focus in ___.  
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
