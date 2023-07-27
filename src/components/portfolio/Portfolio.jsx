@@ -13,32 +13,32 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Educational Website with React.js",
+      title: "Study Habits Website",
       img: IMG1,
       description:
-        "An educational website is a huge interactive platform to present various information for people.",
-      technologies: "Html | CSS | Javascript | React Js",
-      link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+        "write something here",
+      technologies: "MySQL | React | Node ",
+      link: "https://google.com",
+      github: "https://github.com/FrankieMNyaga/Software-Engineering",
     },
     {
       id: 2,
-      title: "Covid-19 Tracking App",
+      title: "Transformers Research Paper",
       img: IMG4,
       description:
-        "The COVID Tracking Project collects and publishes the most complete testing data available for all areas of the world.",
-      technologies: "React | Redux",
-      link: "https://covid-19-tracker-weld-nu.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Covid-19-Tracking",
+        "write something here",
+      technologies: "BERT | Spacy | Scikitlearn",
+      link: "https://google.com",
+      github: "https://google.com",
     },
     {
       id: 3,
-      title: "RubyCode Blog Project",
+      title: "Single-Player Web Games",
       img: IMG2,
       description: "This site is a kind of social media platform. You can register and share your posts.",
-      technologies: "React | Redux",
-      link: "https://rubycode-blog-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/RubyCode-Blog",
+      technologies: "HTML | CSS | Javascipt",
+      link: "https://google.com",
+      github: "https://google.com"
     }
   ];
 
