@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.8bf6f4a8.css",
-    "main.js": "/my-portfolio/static/js/main.390da234.js",
-    "static/media/rach.png": "/my-portfolio/static/media/rach.8c7ee5ad380bb5317487.png",
+    "main.css": "/my-portfolio/static/css/main.fbad2804.css",
+    "main.js": "/my-portfolio/static/js/main.32b9fefd.js",
+    "static/media/rach.png": "/my-portfolio/static/media/rach.788647f6d242899562c2.png",
     "static/media/Educational Website.jpg": "/my-portfolio/static/media/Educational Website.97050bafaa509873a210.jpg",
     "static/media/Project4.jpg": "/my-portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
     "static/media/Startup Agency Project.jpg": "/my-portfolio/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
@@ -11,11 +11,11 @@
     "static/media/RubyCode Blog Project.jpg": "/my-portfolio/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
     "static/media/Jokes Project.jpg": "/my-portfolio/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.8bf6f4a8.css.map": "/my-portfolio/static/css/main.8bf6f4a8.css.map",
-    "main.390da234.js.map": "/my-portfolio/static/js/main.390da234.js.map"
+    "main.fbad2804.css.map": "/my-portfolio/static/css/main.fbad2804.css.map",
+    "main.32b9fefd.js.map": "/my-portfolio/static/js/main.32b9fefd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bf6f4a8.css",
-    "static/js/main.390da234.js"
+    "static/css/main.fbad2804.css",
+    "static/js/main.32b9fefd.js"
   ]
 }
