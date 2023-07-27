@@ -2,10 +2,7 @@ import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
 import IMG2 from "../../assets/RubyCode Blog Project.jpg";
-import IMG3 from "../../assets/Startup Agency Project.jpg";
-import IMG4 from "../../assets/Covid-19 Project.jpg";
-import IMG5 from "../../assets/Jokes Project.jpg";
-import IMG6 from "../../assets/Project4.jpg";
+import IMG3 from "../../assets/Covid-19 Project.jpg";
 import React from "react";
 
 //Portfolio function
@@ -24,7 +21,7 @@ const Portfolio = () => {
     {
       id: 2,
       title: "Transformers Research Paper",
-      img: IMG4,
+      img: IMG2,
       description:
         "write something here",
       technologies: "BERT | Spacy | Scikitlearn",
@@ -34,7 +31,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: "Single-Player Web Games",
-      img: IMG2,
+      img: IMG3,
       description: "This site is a kind of social media platform. You can register and share your posts.",
       technologies: "HTML | CSS | Javascipt",
       link: "https://google.com",

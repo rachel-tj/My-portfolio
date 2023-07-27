@@ -12,7 +12,7 @@ const Footer = () => {
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Skills</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#repos">Repositories</a></li>
       </ul>
       <div className="footer__socials">
       <a href="https://www.linkedin.com/in/rachel-tjarksen-26a275259/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
