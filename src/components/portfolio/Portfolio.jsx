@@ -70,7 +70,7 @@ const Portfolio = () => {
                 className="btn btn-primary"
                 rel="noreferrer"
               >
-                Live Demo
+                Link
               </a>
             </div>
           </article>

@@ -31,7 +31,7 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            Hi there! My name is Rachel Tjarksen, and I'm a second-year Computer Science and Mathematics major at Case Western Reserve University. Currently, I'm interested in ___ with a focus in ___.  
+            Hi there! My name is Rachel Tjarksen, and I'm a second-year Computer Science and Mathematics major at Case Western Reserve University. Currently, I'm interested in machine learning with a focus in natural language processing.  
           </p>
         </div>
       </div>

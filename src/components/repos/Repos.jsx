@@ -32,7 +32,7 @@ const Repos = () => {
       link: 'https://github.com/rachel-tj/senior-projects/puchbot',
       name: 'PuchBot',
       role: 'Full Stack Developer| PostgreSQL | JavaScript | React | Redux | Html&Css | Python.',
-      test: 'something',
+      test: 'This was my end-of-the-year project in linear algebra.  Through implementation of Markov chains and ngrams, this project showcases an innovative approach to simulate text, providing an exploration of language and computational linguistics.',
     },
     {
       id: 4,
