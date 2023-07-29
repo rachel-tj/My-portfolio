@@ -1,7 +1,7 @@
 import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
-import IMG2 from "../../assets/RubyCode Blog Project.jpg";
+import IMG2 from "../../assets/transformers.png";
 import IMG3 from "../../assets/Covid-19 Project.jpg";
 import React from "react";
 
@@ -13,7 +13,7 @@ const Portfolio = () => {
       title: "Study Habits Website",
       img: IMG1,
       description:
-        "write something here",
+        "Study Habits is a full-stack website for seamless homework and class organization, empowering students for academic success.",
       technologies: "MySQL | React | Node ",
       link: "https://google.com",
       github: "https://github.com/FrankieMNyaga/Software-Engineering",
@@ -23,7 +23,7 @@ const Portfolio = () => {
       title: "Transformers Research Paper",
       img: IMG2,
       description:
-        "write something here",
+        "This paper examines the use of transformers in predicting financial data, showcasing the model's potential for enhancing forecasting.",
       technologies: "BERT | Spacy | Scikitlearn",
       link: "https://google.com",
       github: "https://google.com",
@@ -32,7 +32,7 @@ const Portfolio = () => {
       id: 3,
       title: "Single-Player Web Games",
       img: IMG3,
-      description: "This site is a kind of social media platform. You can register and share your posts.",
+      description: "Here is an assortment of 10+ single-player frontend web games such as minesweeper, hangman, and more.",
       technologies: "HTML | CSS | Javascipt",
       link: "https://google.com",
       github: "https://google.com"
