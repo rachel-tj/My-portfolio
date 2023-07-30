@@ -2,7 +2,7 @@ import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
 import IMG2 from "../../assets/transformers.png";
-import IMG3 from "../../assets/Covid-19 Project.jpg";
+import IMG3 from "../../assets/typingtest.png";
 import React from "react";
 
 //Portfolio function

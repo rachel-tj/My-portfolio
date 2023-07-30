@@ -21,12 +21,12 @@ const Intro = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>something</small>
+              <h5>Planned Degrees</h5>
+              <small>BS in Computer Science<br></br>BS in Mathematics<br></br>MS in Computer Science</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
+              <h5>somehing</h5>
               <small>something</small>
             </article>
           </div>
