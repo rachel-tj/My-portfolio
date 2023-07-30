@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.648b814d.css",
-    "main.js": "/my-portfolio/static/js/main.8d963e35.js",
+    "main.js": "/my-portfolio/static/js/main.b2fae3dc.js",
     "static/media/rach.png": "/my-portfolio/static/media/rach.788647f6d242899562c2.png",
+    "static/media/typingtest.png": "/my-portfolio/static/media/typingtest.f3be01fcc56aa8f97012.png",
     "static/media/Educational Website.jpg": "/my-portfolio/static/media/Educational Website.97050bafaa509873a210.jpg",
     "static/media/transformers.png": "/my-portfolio/static/media/transformers.ea648d1bdd69b9216329.png",
     "static/media/Rachel_Tjarksen_Resume.pdf": "/my-portfolio/static/media/Rachel_Tjarksen_Resume.894dccac9729276dc225.pdf",
-    "static/media/Covid-19 Project.jpg": "/my-portfolio/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.648b814d.css.map": "/my-portfolio/static/css/main.648b814d.css.map",
-    "main.8d963e35.js.map": "/my-portfolio/static/js/main.8d963e35.js.map"
+    "main.b2fae3dc.js.map": "/my-portfolio/static/js/main.b2fae3dc.js.map"
   },
   "entrypoints": [
     "static/css/main.648b814d.css",
-    "static/js/main.8d963e35.js"
+    "static/js/main.b2fae3dc.js"
   ]
 }
