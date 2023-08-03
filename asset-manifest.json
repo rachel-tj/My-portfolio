@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.648b814d.css",
-    "main.js": "/my-portfolio/static/js/main.b2fae3dc.js",
+    "main.js": "/my-portfolio/static/js/main.b235a295.js",
     "static/media/rach.png": "/my-portfolio/static/media/rach.788647f6d242899562c2.png",
     "static/media/typingtest.png": "/my-portfolio/static/media/typingtest.f3be01fcc56aa8f97012.png",
     "static/media/Educational Website.jpg": "/my-portfolio/static/media/Educational Website.97050bafaa509873a210.jpg",
@@ -9,10 +9,10 @@
     "static/media/Rachel_Tjarksen_Resume.pdf": "/my-portfolio/static/media/Rachel_Tjarksen_Resume.894dccac9729276dc225.pdf",
     "index.html": "/my-portfolio/index.html",
     "main.648b814d.css.map": "/my-portfolio/static/css/main.648b814d.css.map",
-    "main.b2fae3dc.js.map": "/my-portfolio/static/js/main.b2fae3dc.js.map"
+    "main.b235a295.js.map": "/my-portfolio/static/js/main.b235a295.js.map"
   },
   "entrypoints": [
     "static/css/main.648b814d.css",
-    "static/js/main.b2fae3dc.js"
+    "static/js/main.b235a295.js"
   ]
 }
